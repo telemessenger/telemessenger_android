@@ -1,0 +1,15 @@
+/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/CMakeFiles/rebuild_cache.dir
+/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/CMakeFiles/edit_cache.dir
+/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/CMakeFiles/rlottie.dir
+/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/CMakeFiles/tgcalls.dir
+/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/CMakeFiles/tmessages.35.dir
+/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/CMakeFiles/tgcalls_tp.dir
+/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/CMakeFiles/mozjpeg.dir
+/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/CMakeFiles/sqlite.dir
+/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/CMakeFiles/cpufeatures.dir
+/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/CMakeFiles/voipandroid.dir
+/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/CMakeFiles/lz4.dir
+/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/CMakeFiles/tgnet.dir
+/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/CMakeFiles/webp.dir
+/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/CMakeFiles/tgvoip.dir
+/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/CMakeFiles/flac.dir

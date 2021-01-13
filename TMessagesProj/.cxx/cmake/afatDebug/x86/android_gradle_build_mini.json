@@ -1,0 +1,105 @@
+{
+  "buildFiles": [
+    "/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/jni/CMakeLists.txt",
+    "/Users/apple/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/apple/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake",
+    "/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/jni/voip/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/apple/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/apple/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "tgcalls_tp-Debug-x86": {
+      "artifactName": "tgcalls_tp",
+      "buildCommand": "/Users/apple/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86\" tgcalls_tp",
+      "abi": "x86",
+      "output": "/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/libtgcalls_tp.a",
+      "runtimeFiles": []
+    },
+    "tgcalls-Debug-x86": {
+      "artifactName": "tgcalls",
+      "buildCommand": "/Users/apple/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86\" tgcalls",
+      "abi": "x86",
+      "output": "/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/libtgcalls.a",
+      "runtimeFiles": []
+    },
+    "lz4-Debug-x86": {
+      "artifactName": "lz4",
+      "buildCommand": "/Users/apple/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86\" lz4",
+      "abi": "x86",
+      "output": "/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/liblz4.a",
+      "runtimeFiles": []
+    },
+    "flac-Debug-x86": {
+      "artifactName": "flac",
+      "buildCommand": "/Users/apple/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86\" flac",
+      "abi": "x86",
+      "output": "/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/libflac.a",
+      "runtimeFiles": []
+    },
+    "tgvoip-Debug-x86": {
+      "artifactName": "tgvoip",
+      "buildCommand": "/Users/apple/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86\" tgvoip",
+      "abi": "x86",
+      "output": "/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/libtgvoip.a",
+      "runtimeFiles": []
+    },
+    "mozjpeg-Debug-x86": {
+      "artifactName": "mozjpeg",
+      "buildCommand": "/Users/apple/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86\" mozjpeg",
+      "abi": "x86",
+      "output": "/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/libmozjpeg.a",
+      "runtimeFiles": []
+    },
+    "webp-Debug-x86": {
+      "artifactName": "webp",
+      "buildCommand": "/Users/apple/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86\" webp",
+      "abi": "x86",
+      "output": "/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/libwebp.a",
+      "runtimeFiles": []
+    },
+    "sqlite-Debug-x86": {
+      "artifactName": "sqlite",
+      "buildCommand": "/Users/apple/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86\" sqlite",
+      "abi": "x86",
+      "output": "/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/libsqlite.a",
+      "runtimeFiles": []
+    },
+    "tmessages.35-Debug-x86": {
+      "artifactName": "tmessages.35",
+      "buildCommand": "/Users/apple/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86\" tmessages.35",
+      "abi": "x86",
+      "output": "/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/build/intermediates/cmake/afatDebug/obj/x86/libtmessages.35.so",
+      "runtimeFiles": []
+    },
+    "tgnet-Debug-x86": {
+      "artifactName": "tgnet",
+      "buildCommand": "/Users/apple/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86\" tgnet",
+      "abi": "x86",
+      "output": "/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/libtgnet.a",
+      "runtimeFiles": []
+    },
+    "cpufeatures-Debug-x86": {
+      "artifactName": "cpufeatures",
+      "buildCommand": "/Users/apple/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86\" cpufeatures",
+      "abi": "x86",
+      "output": "/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/libcpufeatures.a",
+      "runtimeFiles": []
+    },
+    "voipandroid-Debug-x86": {
+      "artifactName": "voipandroid",
+      "buildCommand": "/Users/apple/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86\" voipandroid",
+      "abi": "x86",
+      "output": "/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/libvoipandroid.a",
+      "runtimeFiles": []
+    },
+    "rlottie-Debug-x86": {
+      "artifactName": "rlottie",
+      "buildCommand": "/Users/apple/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86\" rlottie",
+      "abi": "x86",
+      "output": "/Users/apple/Documents/Working/mgosu/telegram_project/telegram_v7/telev73/Telegram731_open/Telegram/TMessagesProj/.cxx/cmake/afatDebug/x86/librlottie.a",
+      "runtimeFiles": []
+    }
+  }
+}
